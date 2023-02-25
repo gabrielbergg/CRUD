@@ -24,4 +24,7 @@ Back-end e Banco de dados:
 - MySQL
 ```
 
+# Link adicional: 
+
+LinkedIn: https://www.linkedin.com/in/gabriel-bergg/
 
